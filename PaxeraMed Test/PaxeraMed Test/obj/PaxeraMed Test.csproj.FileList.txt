@@ -1,0 +1,10 @@
+bin\Debug\PaxeraMed Test.exe
+bin\Debug\PaxeraMed Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PaxeraMed_Test.Create_Form.resources
+obj\Debug\PaxeraMed_Test.PaxeraMedTestForm.resources
+obj\Debug\PaxeraMed_Test.Properties.Resources.resources
+obj\Debug\PaxeraMed_Test.Threshold_Choose.resources
+obj\Debug\PaxeraMed Test.csproj.GenerateResource.Cache
+obj\Debug\PaxeraMed Test.exe
+obj\Debug\PaxeraMed Test.pdb

@@ -1,0 +1,49 @@
+Efficiency:
+-------------
+[DONE]a timing comparison is done between efficient function zoom in, zoom out, fit-center, stretch, invert
+gray scale functions, and  their alternative efficient new implemented ones. 
+each function when called using its Control event, a timer is set, and ellapsed time is printed 
+on the form label.
+
+
+Image Processing:
+------------------------
+[DONE] fit and center : was implemented by implicit c# member function in Bitmap class, now i implemented in details to show how i do it.
+[DONE] stretch: was implemented using the bitmap member function also of resizing, now it is done my way.
+
+also added image processing functions:
+[DONE]thresholding
+[DONE]Edge detection
+[DONE]image segmentation
+
+Medical specific image processing: functions - CT images' data extraction
+[DONE]1- Histogram drawn, and simple data extracted.
+
+
+
+Testing & Debugging:
+------------------------------
+[DONE]tested all events in different orders, and used exeptoin handling.
+
+
+Usability:
+--------------
+[DONE]Plus the clear GUI, I added a famous feature to the program:  undo/redo  up to 100 actions.
+using array data structure and object oriented feature : aggregation
+
+
+
+GUI:
+------
+[DONE]1- folder browser when creating new image
+[DONE]2- color browser when choosing to draw line or draw by free hand
+
+
+Coding:
+----------
+[DONE]Self documented.
+
+
+
+
+ 
