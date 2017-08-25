@@ -1,3 +1,13 @@
+PROJECT AUTHOR:
+--------------
+This project and all of its files are written by: Jihad Ahmad Abdel Majeed
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+
 Efficiency:
 -------------
 [DONE]a timing comparison is done between efficient function zoom in, zoom out, fit-center, stretch, invert
